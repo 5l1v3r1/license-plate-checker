@@ -1,0 +1,16 @@
+{
+    "name": "theroyalstudent/license-plate-checker",
+    "description": "Singapore License Plate Checker / Detector.",
+    "keywords": [ "singapore", "license", "plate", "check", "detect" ],
+    "license": "(GPL-3.0-only or GPL-3.0-or-later)",
+    "type": "library",
+    "autoload": {
+        "classmap": ["libs/"]
+    },
+    "authors": [
+        {
+            "name": "Edwin A.",
+            "email": "edwin@theroyalstudent.com"
+        }
+    ]
+}
